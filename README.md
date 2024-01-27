@@ -25,9 +25,9 @@ const MahdiRezainiya = {
  challenge: "I am doing the #100DaysOfCode challenge focused on react and node"
 }
 ```
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mahdi_rezainiya&theme=dark&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mahdi-rezainiya&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
-![mahdi_rezainiya](https://github-readme-stats.vercel.app/api?username=mahdi_rezainiya&show_icons=true&theme=shades-of-purple)
+![mahdi_rezainiya](https://github-readme-stats.vercel.app/api?username=mahdi-rezainiya&show_icons=true&theme=shades-of-purple)
 
 <!--END_SECTION:waka-->
 
