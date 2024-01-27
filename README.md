@@ -28,9 +28,6 @@ const MahdiRezainiya = {
  challenge: "I am doing the #100DaysOfCode challenge focused on react and node"
 }
 ```
-<!--<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>-->
-
-	
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mahdi-rezainiya&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 ![mahdi_rezainiya](https://github-readme-stats.vercel.app/api?username=mahdi-rezainiya&show_icons=true&theme=shades-of-purple)
