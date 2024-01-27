@@ -1,4 +1,4 @@
-<h2> Hi, I'm Mahdi Rezainiya! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<!--<h2> Hi, I'm Mahdi Rezainiya! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <p><em>Beginner Developer at <a href="https://iut.ac.ir/">Tabriz University</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Child Full-Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
@@ -24,7 +24,7 @@ const AliYousefian = {
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mahdi-rezainiya&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 ![mahdi_rezainiya](https://github-readme-stats.vercel.app/api?username=mahdi-rezainiya&show_icons=true&theme=shades-of-purple)
-
+-->
 
 
 <a href=&quothttps://github.com/mahdi-rezainiya>
