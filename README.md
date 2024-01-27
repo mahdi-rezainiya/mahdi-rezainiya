@@ -37,11 +37,6 @@ const MahdiRezainiya = {
 
 <!--END_SECTION:waka-->
 
-
-📈 my github stats
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=abhisheknaiidu&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
-
 ---
 - 🔭 I’m currently working on ... Freelancers
 - 🌱 I’m currently learning ... database & hosting
