@@ -26,6 +26,10 @@ const AliYousefian = {
 ![mahdi_rezainiya](https://github-readme-stats.vercel.app/api?username=mahdi-rezainiya&show_icons=true&theme=shades-of-purple)
 
 
+
+<a href=&quothttps://github.com/mahdi-rezainiya>
+<img align=&quotcenter&quot src=&quothttps://github-readme-stats.vercel.app/api?username=mahdi-rezainiya&show_icons=true&count_private=true&include_all_commits=true&quot /></a>
+
 ---
 - 🔭 I’m currently working on ... Freelancers
 - 🌱 I’m currently learning ... Spark and MongoDb
